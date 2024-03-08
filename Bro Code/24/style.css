@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    color: white;
+    button{
+        padding: 5px;
+        border-radius: 15px;
+        background: linear-gradient(#6441A5, #2a0845);
+    }
+    
+    input{
+        background-color: grey;
+        color: white;
+    }
+}

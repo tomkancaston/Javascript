@@ -1,0 +1,17 @@
+body{
+    background: black;
+    color: white;
+    font-size: 3em;
+    label{
+        color: white;
+    }
+    input{
+        padding: 5px 25px;
+    }
+    button{
+        border-radius: 20px;
+        padding: 10px;
+        font-size: 25px;
+        background: linear-gradient(#dae2f8, #d6a4a4);
+    }
+}

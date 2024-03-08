@@ -1,0 +1,23 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background: black;
+
+}
+
+#myButton{
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 15px;
+    color: black;
+    background: linear-gradient(#ddd6f3, #faaca8);
+}
+#myButton:active{
+    background: linear-gradient(#bca7ff, #f07f79);
+    transition: 15s;
+}
+
+.myLabels{
+    font-size: 3em;
+    color: white;
+}

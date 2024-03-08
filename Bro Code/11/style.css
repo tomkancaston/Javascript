@@ -1,0 +1,18 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 3em;
+    background-color: black;
+    color: white;
+    button{
+        color: white;
+        border-radius: 20px;
+        padding: 10px 15px;
+        background: linear-gradient(#FBD3E9,#bb377d);
+    }
+    p{
+        color: white;
+    }
+}
+#mySubmit{
+    font-size: 1em;
+}

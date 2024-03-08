@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: whitesmoke;
+    font-size: 3em;
+    text-align: center;
+    label{
+        color: cyan;
+    }
+    input{
+        padding: 10px;
+    }
+    button{
+        background: linear-gradient(cyan, pink);
+        padding: 25px;
+        border-radius: 10px;
+        font-size: 0.5em;
+    }
+}

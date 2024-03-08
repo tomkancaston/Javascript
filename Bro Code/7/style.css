@@ -1,0 +1,28 @@
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 8em;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#btnContainer{
+    text-align: center;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    border-radius: 10px;
+    background: linear-gradient(#42275a, #734b6d);
+    cursor: pointer;
+    transition: background 0.25s;
+}
+.buttons:hover{
+    background: linear-gradient(#734b6d, #42275a);
+}
+body{
+    background-color: black;
+    label{
+        color: white;
+    }
+}
