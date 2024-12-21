@@ -3,6 +3,13 @@
 Welcome to my retake of Bro Code's comprehensive JavaScript tutorial! This readme will guide you through the various sections of the tutorial, breaking down key concepts and the source code for each topic.
 Whether you're a beginner or someone looking to refine your JavaScript skills, this repo will provide an organized overview of the tutorial and my respective source codes.
 
+Link to the original video:
+<a href="https://youtu.be/lfmg-EJ8gm4?si=lHtI7uVGio8pjyHG" target="_blank">
+  <img src="https://github.com/user-attachments/assets/bec14a27-9be4-4044-8aec-83f18641e02a" alt="YouTube" height="35px" width="35px">
+</a>
+
+---
+
 ## Table of Contents
 
 ### 1. Getting Started with Writing Javascript 🌐
@@ -234,3 +241,5 @@ Learn about JSON (JavaScript Object Notation), a format used for exchanging data
 
 ### 76. Web APIs 🌐
 Explore various web APIs like Geolocation, Web Storage, and more, and how to use them in your JavaScript projects. 
+
+---
