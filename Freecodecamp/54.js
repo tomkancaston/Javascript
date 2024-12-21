@@ -1,3 +1,0 @@
-function welcomeToBooLeans(){
-    return false;
-}
